@@ -1,71 +1,101 @@
-# AI-Assisted Domain Software for SMB Construction & Manufacturing
+# Configurable Business Software Platform Concept
 
-## Executive Summary
+## Honest Translation
 
-We're building ownable, evolving software for mid-market construction and manufacturing companies trapped between rigid SaaS and expensive custom development.
+**We're not building magic AI that evolves software automatically. We're building a pipeline that makes custom software faster and more repeatable, starting with templates + AI-assisted domain modeling. Over time, we add tools that help the software improve based on real usage data—but customers always opt-in to changes.**
 
-**The opportunity**: $10.5-15B market with only 4% of construction companies using AI despite proven 15% productivity gains. Current solutions fail with 70% implementation failure rates and force businesses to adapt to software rather than software adapting to business.
+This is a conversation starter for exploring whether this concept is technically and commercially viable. It requires significant technical expertise to validate feasibility and design the right architecture.
 
-**Our solution**: In 3 weeks, companies own software built for their exact workflows that evolves monthly with AI-driven improvements. They pay $3K/month instead of $12K for disconnected tools, eliminate 14+ hours weekly waste, and build a balance sheet asset instead of an expense.
+## Current State vs Future Vision
 
-## Quick Links
+### Phase 1: Managed Service (Today)
+- Heavy human involvement in domain mapping and assembly
+- Manual deployment and configuration
+- Internal tools only - no customer self-service
+- Focus on proving the 80/20 template coverage rule
 
-- [Market Opportunity](market.md) - $10.5-15B TAM analysis and timing
-- [Ideal Customer Profile](ICP.md) - $15-35M companies with compliance complexity
-- [Customer Profiles](customer-profile.md) - Detailed workflow pain points
-- [Data & Benchmarks](data.md) - Competitor pricing and efficiency metrics
-- [Business Plan](plan.md) - Revenue model and execution strategy
-- [Onboarding Process](onboarding.md) - How we scale without becoming consultants
-- [Messaging](messaging.md) - Positioning and differentiation
-- [FAQ](faq.md) - Common questions and concerns
+### Future Vision: Semi-Automated Pipeline
+- AI-assisted intake reduces manual domain modeling
+- Automated component assembly and deployment
+- Optional customer-facing configuration tools
+- Usage-based improvement suggestions (opt-in only)
+- SaaS-like platform experience with ownership benefits
 
-## The Problem
+**Reality check**: We don't know if this evolution is technically feasible or economically viable.
 
-Construction companies lose 35% of professional time to manual data entry, risk $94K+ compliance penalties, and miss $50-200K annually in rebates. They use 5+ disconnected tools costing $8-12K/month.
+## The Core Idea
 
-Manufacturers take days to weeks for custom quotes, lose 5% revenue to tool fragmentation, and see 15% production slowdowns from manual processes.
+Companies with complex workflows ($15-35M revenue) are stuck between rigid SaaS and expensive custom development. We think there's an opportunity to create a **pipeline for configurable, ownable software** that:
 
-Both suffer from 70% software implementation failure rates and are forced to choose between:
-- Rigid SaaS that doesn't fit their workflows
-- Custom development costing $200K+ and taking 6-12 months
+1. **Domain modeling** - AI-assisted intake captures business workflows from documents and conversations
+2. **Translation layer** - Maps verified domain models to a growing library of pre-built components  
+3. **Assembly & deployment** - Generates customer-specific software from those components
+4. **Evolution layer** - Proposes improvements over time based on usage patterns (customer opt-in only)
 
-## Our Solution
+**Customer promise**: They own their configured software instance built from our component library, but we host and manage it if they choose. They pay for hosting, assistance, and access to the configuration platform.
 
-### 3-Week Implementation
-- **Week 1**: AI-assisted domain mapping captures 80% of workflows
-- **Week 2**: Configuration using industry templates
-- **Week 3**: Launch with core workflows operational
+## What This Is Not
 
-### Monthly Evolution
-- AI analyzes usage patterns
-- Compliance updates applied automatically
-- Customer-requested features prioritized
-- System gets smarter every month
+**Not pure SaaS**: Customers own their configured instance, not just a subscription  
+**Not fully custom development**: We use a shared component library for speed and affordability  
+**Not magic AI automation**: AI assists with domain modeling, humans validate and configure  
+**Not one-size-fits-all**: Industry-specific templates adapted to individual workflows  
+**Not consulting with AI buzzwords**: We're building reusable components, not bespoke solutions
 
-### Ownership Model
-- Customer owns the code (balance sheet asset)
-- No vendor lock-in
-- Appreciates in value over time
-- Can be sold with the business
+**Think**: Shopify or WordPress for business workflows—templates, components, and ownership—but for compliance-heavy industries like construction and manufacturing.
 
-## Why Now?
+## Unresolved Technical Questions
 
-**Technology Timing**: AI can generate code (70-90% faster) but can't extract domain knowledge. This 18-36 month window is our opportunity.
+This concept has significant technical unknowns that need your input:
 
-**Market Pressure**: 68% of construction companies can't fill roles, forcing automation. Infrastructure Investment Act driving 10+ month backlogs.
+### Architecture & Deployment
+- **Multi-tenancy vs single-tenancy**: How do we handle 100+ customer deployments?
+- **CI/CD pipeline**: How do we automate deployment while maintaining customer ownership?
+- **Update mechanism**: How do customers receive updates to "owned" software?
+- **Security & compliance**: How do we maintain SOC2/HIPAA across customer environments?
 
-**Competitive Gap**: Nobody serves the $15-35M revenue segment well. Too small for enterprise, too complex for SMB solutions.
+### Platform Complexity
+- **Component library**: What abstraction level works for business workflows?
+- **Integration complexity**: How do we handle the long tail of customer system integrations?
+- **Telemetry & privacy**: What data do we collect vs. what customers will accept?
+- **Edge cases**: How do we handle requirements that don't fit templates?
 
-## Current Status
+### Business Model Viability
+- **Automation targets**: Can we reduce implementation from 120 hours → 12 hours?
+- **Template coverage**: Is 80% reusable components realistic?
+- **Service creep prevention**: How do we avoid becoming a consulting company?
+- **Unit economics**: What's the real cost of customer-specific deployments?
 
-- ✅ Concept validation through 3-week HVAC ERP build
-- ✅ Market research complete: Clear $10.5-15B opportunity
-- ✅ Technical approach validated: 80/20 template model works
-- ✅ Go-to-market strategy defined: Direct + associations
+## Request for Feedback
 
-## Next Steps
+This concept needs technical validation before it's worth pursuing. We're looking for honest assessment of:
 
-1. Build first 3 customer implementations (validate 3-week timeline)
-2. Develop HVAC/Electrical templates
-3. Create compliance automation engine
-4. Document patterns for scaling
+1. **Is the technical architecture sound?** Does the pipeline concept make sense or is it overly complex?
+2. **What are we missing?** What technical challenges aren't we considering?
+3. **How would you build this?** What would Phase 1 actually look like technically?
+4. **Should we kill this idea?** If the technical complexity outweighs the business opportunity, let's find that out early.
+
+Feel free to challenge any assumptions, poke holes in the logic, or suggest completely different approaches. The goal is to either validate this is worth building or learn why it isn't.
+
+## Next Step for AI Assistance
+
+Copy this prompt into your AI terminal to get started:
+
+```
+Review this repo and propose a realistic technical architecture, identify risks, and suggest how to implement Phase 1 with minimal complexity.
+```
+
+## Repository Contents
+
+- [**Architecture Overview**](architecture.md) - Technical pipeline concept and open questions
+- [**Build Plan**](build-plan.md) - Phased approach from simple templates to full automation
+- [**Business Strategy**](plan.md) - Market approach and how technical decisions impact viability
+- [**Messaging**](messaging.md) - How to explain this honestly to customers
+- [**FAQ**](faq.md) - Key technical and business feasibility questions
+
+**Supporting research** (context for the opportunity):
+- [Market Analysis](market.md) - Why complex operations companies might pay for this
+- [Customer Profiles](customer-profile.md) - Specific workflow pain points we'd solve
+- [Competitive Data](data.md) - Current solutions and pricing reality
+
+Your input on the technical feasibility will determine whether this concept moves forward or gets shelved.

@@ -9,10 +9,10 @@
 - Cloud eliminates infrastructure barriers
 
 ### Market Pressure
-- 68% of construction companies can't fill roles
-- 75% workforce will be millennials by 2025
-- Infrastructure Investment Act driving demand
-- Compliance requirements increasing
+- Labor shortages forcing automation across industries
+- 75% workforce will be millennials by 2025, expecting modern tools
+- Infrastructure and regulatory investment driving complexity
+- Compliance requirements increasing across sectors
 
 ### Competitive Gap
 - Enterprise solutions too complex/expensive for SMBs
@@ -38,7 +38,7 @@
 ## Leading Indicators (Already Happening):
 - 340% ROI documented for compliance automation
 - 59% → 75% integrated tool adoption by 2027
-- 4% → 15-25% AI adoption in construction
+- 4% → 15-25% AI adoption in complex operations
 - 64% → 80%+ SMB ERP adoption
 
 ## Acceleration Factors:
@@ -115,10 +115,10 @@
 ## Land and Expand Model
 
 ### Land: Solve one critical workflow
-- Prevailing wage calculations (construction)
-- Custom quote-to-order (manufacturing)
+- Examples: Prevailing wage calculations, custom quote-to-order, compliance reporting
+- Target highest-pain operational process first  
 - 2-4 week implementation
-- Immediate ROI demonstration
+- Immediate, measurable ROI demonstration
 
 ### Expand: Add adjacent workflows
 - Change order management

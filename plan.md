@@ -1,187 +1,95 @@
-# Business Model
+# Business Strategy and Model
 
-## Revenue Structure
+## The Market Opportunity
 
-### One-Time Setup: $15-30K
-- Week 1: Domain mapping and template selection
-- Week 2: Configuration and integration
-- Week 3: Launch and training
-- Covers our 36 hours of effort initially
+Companies with complex operations ($15-35M revenue) are underserved by current software options. They're too complex for simple SaaS tools but too small for enterprise solutions. The opportunity is in the middle: custom software that's faster and cheaper than traditional development.
 
-### Monthly Evolution: $2-3K/month
-- AI-driven monthly improvements
-- Compliance updates
-- Pattern recognition enhancements
-- Unlimited users included
+**Key insight**: These businesses will pay for software they own rather than rent, especially if it adapts to their specific workflows rather than forcing them to adapt.
 
-### Infrastructure: $500-1500/month
-- Hosting and compute
-- Data storage
-- Backup and security
-- API calls and integrations
+## Pricing Concept
 
-### Total Customer Investment: $3-5K/month effective
-- vs $8-12K current spend
-- vs $25K true cost (software + inefficiency + errors)
+### Revenue Structure
+- **Setup fee**: $15-30K for initial template implementation and customization
+- **Hosting/management**: $1-3K/month for infrastructure and basic support  
+- **Evolution subscription**: $1-2K/month for improvement suggestions and opt-in updates (optional)
 
-## Unit Economics Target
-- **Customer Acquisition Cost**: $5-10K
-- **Lifetime Value**: $150K+ (5 years @ $3K/month)
-- **Gross Margin**: 70% after infrastructure
-- **Payback Period**: 3-4 months
-- **Break-even**: 15 customers ($45K MRR)
+**Total customer cost**: $3-5K/month vs. $8-12K they currently spend on multiple disconnected tools
 
-# Execution Plan
+### Why This Pricing Works
+- Cheaper than current total cost of ownership
+- Creates balance sheet asset vs. pure expense
+- Aligns our incentives with customer success (evolution subscription)
+- Sustainable for our cost structure if we can automate delivery
 
-## Phase 1: Template Development (Months 1-3)
-**Goal**: Build repeatable foundation
+## Risks
 
-### Activities:
-- Develop HVAC/Electrical templates
-- Create compliance engine for prevailing wage
-- Build integration framework
-- Document domain patterns
+### Service Creep Risk
+**Problem**: Each customer wants custom features, turning us into a consulting company
 
-### Success Metrics:
-- 3 customers signed
-- 3-week implementation achieved
-- 80% workflow coverage confirmed
+**Mitigation strategies**:
+- Hard boundaries on implementation scope (3 weeks maximum)
+- Additional features go into evolution queue, not immediate custom work
+- Template coverage targets (80% of needs met by standard components)
+- Clear "no" to requests that don't fit the model
 
-## Phase 2: Market Validation (Months 4-9)
-**Goal**: Prove product-market fit
+### Template Commoditization
+**Problem**: As templates become standard, competitors copy our approach
 
-### Activities:
-- Scale to 25 customers
-- Reduce implementation to 36 hours
-- Launch manufacturing template
-- Build evolution pipeline
+**Defensibility**:
+- Industry-specific expertise and compliance knowledge
+- Customer data and usage patterns for improvement suggestions
+- Speed of execution and operational excellence
+- Network effects within industry verticals
 
-### Success Metrics:
-- $75K MRR
-- 95% retention rate
-- 340% ROI documented
-- 2 verticals validated
+### High-Touch Onboarding
+**Problem**: Manual implementation process doesn't scale economically
 
-## Phase 3: Scale Preparation (Months 10-18)
-**Goal**: Build repeatable growth engine
+**Path to automation**:
+- Phase 1: Manual but repeatable processes
+- Phase 2: AI-assisted domain modeling
+- Phase 3: Automated deployment pipeline
+- Phase 4: Customer self-service (if feasible)
 
-### Activities:
-- Automate onboarding to 12 hours
-- Launch 3rd and 4th verticals
-- Build partner channel
-- Develop community platform
+**Fallback**: Remain a premium managed service if full automation proves impossible
 
-### Success Metrics:
-- 100 customers
-- $300K MRR
-- 3 implementation pods
-- 10+ reference customers per vertical
+## Target Market Focus
 
-## Phase 4: Growth Acceleration (Months 19-36)
-**Goal**: Achieve market leadership position
+### Phase 1: Construction/Trades
+- Industries with severe regulatory penalties (prevailing wage compliance)
+- Clear ROI from avoided compliance violations
+- Strong industry networks for referrals
+- Willingness to pay premium for ownership model
 
-### Activities:
-- Scale to 500+ customers
-- Launch platform marketplace
-- Expand to adjacent markets
-- Consider acquisition opportunities
+### Phase 2: Adjacent Industries
+- Custom manufacturing with certification requirements
+- Professional services with compliance obligations
+- Any business with complex workflows that don't fit standard software
 
-### Success Metrics:
-- $1.5M MRR
-- 5+ verticals
-- 50%+ growth from referrals
-- Multiple acquisition offers
+### Customer Characteristics
+- $15-35M annual revenue (complex enough for custom, budget for solution)
+- Currently using 3+ disconnected tools
+- Compliance or regulatory requirements
+- Willing to pay for ownership vs. rental
 
-# Go-to-Market Strategy
+## Key Success Metrics
 
-## Direct Sales (Primary Channel)
-**Target**: Companies showing buying signals
-- Failed implementation in last 2 years
-- Compliance violation or near-miss
-- Growing beyond current systems
-- Competitive pressure
+### Phase 1 Validation
+- Implementation time consistently under 3 weeks
+- 80% template coverage across first 5 customers
+- Customer satisfaction scores indicating referral likelihood
+- Component reuse rate proving platform viability
 
-### Approach:
-- LinkedIn outreach to ops managers
-- Webinars on compliance automation
-- ROI calculators and assessments
-- Reference customer introductions
+### Platform Viability
+- Customer acquisition cost vs. lifetime value
+- Implementation time reduction trajectory (120 hours → 20 hours)
+- Revenue per employee (automation indicator)
+- Customer retention and expansion rates
 
-## Industry Associations (Validation Channel)
-**Target**: Trade organizations
-- Associated Builders and Contractors (ABC)
-- Mechanical Contractors Association (MCA)
-- National Electrical Contractors Association (NECA)
-- National Association of Manufacturers (NAM)
+## Critical Questions for Technical Partner
 
-### Value Exchange:
-- Member discounts
-- Compliance resources
-- Educational content
-- Success stories
+1. **Technical feasibility**: Are the automation targets realistic?
+2. **Architecture implications**: How do technical choices affect unit economics?
+3. **Build vs. buy**: What should we build vs. use existing platforms?
+4. **Risk assessment**: What are the biggest technical risks to the business model?
 
-## Strategic Partnerships (Scale Channel)
-**Target**: Complementary services
-- Compliance consultants
-- Industry trainers
-- Software integrators
-- Fractional CFOs
-
-### Model:
-- 20% first year commission
-- 10% ongoing revenue share
-- Certified partner program
-- Co-marketing opportunities
-
-# Risk Mitigation
-
-## Execution Risks
-
-### Risk: Service creep destroying margins
-- **Mitigation**: Hard stop at 3 weeks, evolution for additional needs
-- **Measurement**: Hours per customer tracked weekly
-
-### Risk: Scaling domain expertise
-- **Mitigation**: Hire from industry, document patterns obsessively
-- **Measurement**: Implementation time per customer
-
-### Risk: Technology commoditization
-- **Mitigation**: Focus on compliance/regulatory moat
-- **Measurement**: Customer workflow data accumulation
-
-## Market Risks
-
-### Risk: Economic downturn
-- **Mitigation**: Efficiency focus resonates more in downturns
-- **Preparation**: Maintain 12-month runway
-
-### Risk: Competitive response
-- **Mitigation**: Ownership model hard to replicate
-- **Defense**: Customer lock-in through evolution
-
-### Risk: Regulatory changes
-- **Mitigation**: This actually helps us (more complexity)
-- **Opportunity**: Compliance-as-a-service add-on
-
-# Success Metrics
-
-## Monthly Metrics
-- New customers acquired
-- Implementation hours per customer
-- Monthly recurring revenue
-- Gross margin
-- Customer satisfaction (NPS)
-
-## Quarterly Metrics
-- Customer retention rate
-- Revenue per customer
-- Evolution adoption rate
-- Referral percentage
-- Cash burn rate
-
-## Annual Metrics
-- Market share in target verticals
-- Platform valuation
-- Strategic acquisition offers
-- Industry recognition
-- Team scaling efficiency
+The viability of this business model depends entirely on our ability to automate custom software delivery while maintaining quality and customer satisfaction. Technical architecture decisions will determine whether this is profitable or just an expensive consulting business.

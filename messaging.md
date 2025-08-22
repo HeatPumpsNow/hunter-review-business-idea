@@ -1,86 +1,75 @@
-# Core Value Proposition
+# Simple, Honest Messaging
 
-## The One-Liner
-"Own software that learns your business, not software that forces you to learn it."
+## Positioning Statement
 
-## The Problem Statement
-"You're spending $8-12K monthly on software that doesn't talk to each other, losing 14+ hours weekly on manual work, and risking $94K+ compliance penalties. Meanwhile, generic software forces you to change how you work, and custom development costs $200K+ with a 75% failure rate."
+**"Faster than custom dev, more flexible than SaaS, and you own it."**
 
-## The Solution Frame
-"In 3 weeks, own software built for your exact workflows that evolves monthly with AI-driven improvements. Pay $3K/month instead of $12K, build a balance sheet asset instead of an expense, and join the 4% of companies gaining 15% productivity from AI."
+**"Think Shopify or WordPress for compliance-heavy workflows."**
 
-# Positioning Statements
+## How We Explain What We Do
 
-## For Construction Companies
-"Every prevailing wage mistake risks $94K penalties and debarment. Every missed rebate leaves 5-15% margin on the table. Every manual entry wastes 14 hours weekly. We eliminate all three in 3 weeks with software you own that learns your compliance requirements and evolves with regulation changes."
+### The Problem We Solve
+"Your business is too complex for off-the-shelf software, but custom development takes too long and costs too much. You're stuck paying for multiple tools that don't talk to each other."
 
-## For Manufacturers
-"Your custom products don't fit in standard software. Quote-to-cash across 5 tools loses 5% revenue. Shop floor data collection wastes hundreds of hours. In 3 weeks, own unified software that handles your exact workflows and improves monthly based on your patterns."
+### Our Solution
+"We build configurable software for your workflows using industry-specific templates and component libraries. You get ownable software in 3 weeks instead of 6 months, and you own it instead of renting it forever."
 
-# Differentiation Language
+### How It Works
+1. **Start with industry templates** - Pre-built solutions for businesses like yours
+2. **Configure for your workflows** - We map your processes to our component library
+3. **Deploy your configured instance** - You get working software in 3 weeks that you own
+4. **Evolve over time** - We suggest improvements based on how you use it (opt-in only)
 
-## vs. Traditional SaaS
-- **They say**: "Industry-leading solution"
-- **We say**: "Software you own, not rent"
+## What This Is vs. What This Is Not
 
-- **They say**: "Regular updates"
-- **We say**: "Evolves based on YOUR usage, not their roadmap"
+### What We Are
+- **Configurable platform** using industry-specific templates and components
+- **Ownership model** - customers own their configured instance
+- **Faster than custom** - 3 weeks vs 6 months through component reuse
+- **Industry-focused** - compliance-heavy workflows that don't fit generic SaaS
 
-- **They say**: "$500/user/month"
-- **We say**: "$3K total/month for unlimited users"
+### What We Are Not
+- **Pure SaaS** - customers own their configured instance, not just a subscription
+- **Consulting with AI buzzwords** - we're building reusable components, not bespoke solutions
+- **Magic AI automation** - AI assists with domain modeling, humans validate and configure
+- **One-size-fits-all** - industry-specific templates adapted to individual workflows
 
-## vs. Custom Development
-- **They say**: "6-12 month implementation"
-- **We say**: "3 weeks to launch"
+### Platform Comparison
+- **Shopify**: Templates + apps + ownership for ecommerce
+- **WordPress**: Themes + plugins + ownership for websites  
+- **Our Platform**: Industry templates + workflow components + ownership for complex operations
 
-- **They say**: "$200K+ investment"
-- **We say**: "$20K setup, then $3K/month"
+## Industry-Specific Examples
 
-- **They say**: "Change requests cost extra"
-- **We say**: "Evolution included monthly"
+### Construction/Trades
+"Stop losing money on compliance violations. Get software that handles prevailing wage calculations, certified payroll, and change orders the way your business actually works."
 
-# Proof Points
+### Custom Manufacturing
+"Turn complex quotes into profitable jobs faster. Our configurable platform adapts to your unique processes without forcing you into generic workflows."
 
-## ROI Mathematics
-"**Current state**: $12K/month software + 60 hours/month waste (@$50/hr = $3K) + 2% margin loss ($10K on $500K/month) = $25K monthly cost
+### Professional Services
+"Manage client work and compliance requirements in one system built for how you actually operate, not how generic software thinks you should."
 
-**Our solution**: $3K/month total = $22K monthly savings = 88% cost reduction + own an asset"
+## Key Messaging Principles
 
-## Speed Claims
-- "3 weeks vs 6 months"
-- "80% workflows on day 1"
-- "Monthly evolution vs annual updates"
+1. **Be specific** - Talk about actual workflows, not abstract benefits
+2. **Be honest** - Admit what we can't do or what's still evolving
+3. **Be relatable** - Use their industry language, not tech jargon
+4. **Be valuable** - Focus on measurable outcomes, not features
+5. **Be different** - Emphasize ownership and customization, not efficiency alone
 
-## Success Metrics
-- "340% ROI in 18 months from compliance automation"
-- "50% reduction in quote turnaround"
-- "14-15% productivity improvement"
-- "95% customer retention rate"
+## What We Don't Say
 
-# Customer Success Narratives
+### Avoid AI Hype
+- ❌ "AI automatically evolves your software"
+- ✅ "AI helps us understand your workflows faster"
 
-## Construction Story Arc
-"**Month 1**: Prevailing wage calculations automated, certified payroll runs itself
-**Month 3**: Change orders flow automatically, margins improve 3%
-**Month 6**: Rebate capture system finds $50K you were missing
-**Month 12**: Competitors still fighting ServiceTitan while you evolved 12 times"
+### Avoid Magic Claims
+- ❌ "Our platform solves any business problem"
+- ✅ "We focus on complex operations that don't fit standard software"
 
-## Manufacturing Story Arc
-"**Week 1**: Custom quote time drops from days to hours
-**Month 2**: Shop floor data flows directly to job costing
-**Month 6**: AI predicts which custom configurations are profitable
-**Year 2**: Your software knows your business better than any employee"
+### Avoid Perfectionism
+- ❌ "Fully automated custom software generation"
+- ✅ "Templates plus customization, delivered fast"
 
-# Objection Handlers
-
-## "We already have software"
-"You have 5+ systems that don't talk, waste 14 hours weekly, and cost $12K/month. We replace all of them with one system you own for $3K/month."
-
-## "Custom software always fails"
-"75% fail because they take 12 months and cost $200K. We launch in 3 weeks for $20K because AI handles the code while we handle your workflows."
-
-## "How is 3 weeks possible?"
-"We start with proven templates for your industry, AI extracts your workflows from existing documents, and we configure rather than code from scratch."
-
-## "What if you disappear?"
-"You own the code and data. Any developer can maintain it. Plus, with 95% retention and growing customer base, we're here for the long haul."
+The goal is to have customers say "Finally, someone who understands our business" rather than "That sounds too good to be true."
